@@ -12,6 +12,8 @@ exploiter l'incertitude pour décider quand transmettre à un dermatologue.
 |---|---|
 | `S4_lesions_peau_hybride.ipynb` | Le notebook complet, **déjà exécuté**, avec les explications pas à pas et les commentaires des résultats |
 | `requirements.txt` | Dépendances Python |
+| `Rapport_S4_groupe4.pdf` | Le rapport (4 pages) |
+| `S4_soutenance.pptx` | La présentation de soutenance, avec les notes du présentateur |
 | `data/dermamnist.npz` | Les données (à télécharger, voir ci-dessous ; non versionnées) |
 
 Plan du notebook : données et hiérarchie (sourcée) → métriques → modèle et pertes logiques → expérience principale
