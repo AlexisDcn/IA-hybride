@@ -1,0 +1,4 @@
+data/*.npz
+data/MNIST/
+.ipynb_checkpoints/
+__pycache__/
