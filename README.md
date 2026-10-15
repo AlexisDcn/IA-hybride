@@ -67,11 +67,11 @@ notebook, partie 1.3).
 
 | | R : référence | M : multi-tâche | H : hybride |
 |---|---|---|---|
-| Précision équilibrée (7 types) | **0,389** | 0,384 | 0,369 |
-| Rappel du mélanome | 0,344 | **0,354** | 0,324 |
-| AUC bénin / malin | 0,817 | 0,858 | **0,862** |
+| Précision équilibrée (7 types) | **0,390** | 0,385 | 0,368 |
+| Rappel du mélanome | 0,350 | **0,357** | 0,318 |
+| AUC bénin / malin | 0,818 | 0,859 | **0,862** |
 | Incohérence entre têtes avant décodage | (une seule tête) | 5,7 % | 3,8 % |
-| ECE (décodage brut) | 0,143 | 0,087 | **0,075** |
+| ECE (décodage brut) | 0,143 | 0,089 | **0,073** |
 
 * La hiérarchie aide nettement la **décision bénin / malin** quand les étiquettes fines sont rares (AUC ≈ 0,86 même avec
   2 % des étiquettes, contre ≈ 0,78 pour la référence) et rend les sorties **cohérentes**.
